@@ -18,7 +18,7 @@ A simple, stylish web-based calculator built with HTML, CSS, and JavaScript. Thi
 ## Live Demo
 
 Try it out here:  
-[Web Calculator Live](https://saron-web-calculator.netlify.app/)  
+[Web Calculator Live](https://ashiqursaron.github.io/Web_Calculator/)  
 
 ## Screenshots
 
